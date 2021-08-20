@@ -30,7 +30,7 @@ const Nav = () => (
       </li>
       <li className="nav-list-item">
         <Link  
-          activeStyle={{ borderBottom: "2px solid #a64ac9" }}
+          activeStyle={{ borderBottom: "2px solid #e66b24" }}
           to="/contact">
           Contact
         </Link>
